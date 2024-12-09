@@ -1,2 +1,2 @@
 # delta-demi
-this is a Demo for Git &amp; Github class
+this is a Demo for Git &amp; Githublass
